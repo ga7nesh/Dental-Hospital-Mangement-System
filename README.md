@@ -1,0 +1,2 @@
+# Dental Hospital Mangement System
+ A fully functional project based on Online Hospital Management System Project which uses PHP Language with MySQL Database. The following PHP project contains all the essential features which can be in use by second-year IT students for their college projects. It has a number of features that will allow users to manage all the medical records and reports. This web application’s concept is all clear. It’s the same as real-life scenarios and well-implemented on it.
