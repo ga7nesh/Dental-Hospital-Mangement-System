@@ -61,8 +61,19 @@ Payroll Management
 Print Payroll Receipt
 Manage Vendors
 
+# Home Page
+
+![image](https://user-images.githubusercontent.com/121279015/210347363-293babd8-2904-433e-bd42-d8a16c152a89.png)
+
+# Admin Page
+
+![image](https://user-images.githubusercontent.com/121279015/210347570-2059df81-95aa-40ec-9395-89f0fe92d0d2.png)
+
+
 # How to Run?
 
 [Install.txt](https://github.com/ga7nesh/Dental-Hospital-Mangement-System/files/10336108/Install.txt)
+
+
 
 
